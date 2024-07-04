@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1718223637046,
+      "tag": "0000_misty_surge",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1718255047765,
+      "tag": "0001_tired_magdalene",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1718696077793,
+      "tag": "0002_low_squadron_supreme",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1718722921447,
+      "tag": "0003_cooing_dreaming_celestial",
+      "breakpoints": true
+    }
+  ]
+}
